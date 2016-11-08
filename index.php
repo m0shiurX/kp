@@ -6,16 +6,23 @@
  * Time: 9:25 PM
  */
 ?>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>Moshiur Rahman</title>
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>KP</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
 </head>
 <body>
 <div class="container">
-    
+    <h1>Hello, world!</h1>
 </div>
+<!--JS Plugins -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.js"></script>
 </body>
 </html>
