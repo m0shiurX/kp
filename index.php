@@ -19,6 +19,7 @@
 </head>
 <body>
 <div class="container">
+<<<<<<< HEAD
     <div class="dropdown">
         <button id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <h2>Dropdown trigger</h2>
@@ -28,6 +29,11 @@
             <li>Angular</li>
         </ul>
     </div>
+=======
+
+	<p>Hello World !</p>
+    
+>>>>>>> 5b47d5847e77cc8b4b651bd208222863cf845371
 </div>
 <!--JS Plugins -->
 <script src="js/jquery.min.js"></script>
