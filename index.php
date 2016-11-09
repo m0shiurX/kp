@@ -19,7 +19,15 @@
 </head>
 <body>
 <div class="container">
-    <h1>Hello, world!</h1>
+    <div class="dropdown">
+        <button id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <h2>Dropdown trigger</h2>
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dLabel">
+            <li>Angular</li>
+        </ul>
+    </div>
 </div>
 <!--JS Plugins -->
 <script src="js/jquery.min.js"></script>
